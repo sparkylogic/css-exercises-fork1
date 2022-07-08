@@ -8,7 +8,8 @@ body {
   border: 3px solid blue;
   /* CHANGE ME */
   padding: 0px;
-  margin: 0px;
+  margin: 20px;
+  
 }
 
 .two {
@@ -25,4 +26,6 @@ body {
   /* CHANGE ME */
   padding: 0px;
   margin-left: 0px;
+  display: inline;
+  float: right;
 }
